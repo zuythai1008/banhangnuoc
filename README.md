@@ -1,4 +1,3 @@
-<!DOCTYPE html><html lang="vi">
 <head>
   <meta charset="UTF-8" />
   <title>FreshDrink - Web bán nước</title>
@@ -49,4 +48,4 @@
   </div>
 </div><div class="container" id="lienhe">
   <h2>Liên hệ</h2>
-  <p>📍 Địa chỉ: 123 Đường
+  <p>📍 Địa chỉ: 123 ĐeĐ
